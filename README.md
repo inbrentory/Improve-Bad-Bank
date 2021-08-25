@@ -9,7 +9,7 @@ using MongoDB, Express, Cors. Improve better information security from the previ
 
 ## Installation Guidelines: 
 
-1. If you Git clone files, and start with ~~node index.js~~ 
+1. If you Git clone files, and start with **node index.js**
    make sure you have MongoDB installed on your environment. Otherwise please check: https://robomongo.org/download
 
 2. If using only part of the front-end files (in public) 
@@ -20,7 +20,7 @@ using MongoDB, Express, Cors. Improve better information security from the previ
    4. npm i mongodb
    5. then create Data Abstraction Layer file (dal.js) and JS file to communicate with front-end part (index.js) 
    6. docker run -p 27017:27017 --name badbank -d mongo
-   7. then run with ~~node index.js~~ 
+   7. then run with **node index.js**
    
 ## Screenshots:
 ![Image of LandingPage](https://github.com/inbrentory/Improve-Bad-Bank/blob/main/ImproveBadBank_LandingPage.JPG)
