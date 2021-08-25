@@ -23,7 +23,7 @@ using MongoDB, Express, Cors. Improve better information security from the previ
    7. then run with **node index.js**
    
 ## Screenshots:
-![Image of LandingPage](https://github.com/inbrentory/Improve-Bad-Bank/blob/main/ImproveBadBank_LandingPage.JPG)
+![Image of LandingPage](https://github.com/inbrentory/Improve-Bad-Bank/blob/main/ImproveBadBank_LandingPage02.JPG)
 
 ## Technology used: 
 1. MongoDB
