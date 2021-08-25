@@ -23,7 +23,7 @@ make sure you have MongoDB installed on your environment. Otherwise please check
    then run with <node index.js> 
    
 ## Screenshots:
-![Image of LandingPage] (https://github.com/inbrentory/Improve-Bad-Bank/blob/main/ImproveBadBank_LandingPage.JPG)
+![Image of LandingPage](https://github.com/inbrentory/Improve-Bad-Bank/blob/main/ImproveBadBank_LandingPage.JPG)
 
 ## Technology used: 
 MongoDB
